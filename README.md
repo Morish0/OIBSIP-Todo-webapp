@@ -96,7 +96,8 @@ npm start
 ---
 
 ## **📸 Screenshots**  
-(Add screenshots of your app here!)
+![image](https://github.com/user-attachments/assets/5e52dca9-db97-4812-b74c-e53183f4aa19)
+
 
 ---
 
@@ -104,13 +105,3 @@ npm start
 This project is **MIT Licensed**.  
 
 ---
-
-Now, save this as `README.md` in your project folder and push it to GitHub:
-
-```sh
-git add README.md
-git commit -m "Added README file"
-git push origin master  # or main, depending on your branch
-```
-
-Let me know if you need any modifications! 🚀😊
